@@ -2,9 +2,9 @@
 2nd semester at IUTCM - Programming Logic
 
 These are my homework for my university. In this chapter, we saw everything except arrays. 
-Here you can find:
--While do
--If else/switch
+Here you can find: /n
+-While do /n
+-If else/switch /n
 -Relational Operators
 -Logic Operators
 -Arithmetic Operators
